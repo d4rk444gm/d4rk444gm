@@ -1,16 +1,17 @@
-## Hi there 👋
+# Boas vindas ao mundo-do-louco 🤡
+Meu nome é Francisco Parra
 
-<!--
-**d4rk444gm/d4rk444gm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na Alura
+- Estou aprenddendo a usar Linguagem Java script
+- Pratico Futebol ⚽
+- Pratico Vôlei 🏐
+- Gosto dde jogar ping-pong 🏓
+- Atualmente estou trabalhando no Supermercado LAR
+- Pretendo começar a trabalhar na área de TI 💻
 
-Here are some ideas to get you started:
+[](![image](https://github.com/user-attachments/assets/e666ea92-dbc5-4707-bfbb-969ce80da165)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### Entrar em contato comigo pelo 📧-Mail parra.machado@escola.pr.gov.br ###
