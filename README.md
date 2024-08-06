@@ -9,7 +9,7 @@ Meu nome é Francisco Parra
 - Atualmente estou trabalhando no Supermercado LAR
 - Pretendo começar a trabalhar na área de TI 💻
 
-[](![image](https://github.com/user-attachments/assets/e666ea92-dbc5-4707-bfbb-969ce80da165)
+![](![image](https://github.com/user-attachments/assets/e666ea92-dbc5-4707-bfbb-969ce80da165)
 
 
 
