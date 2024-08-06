@@ -13,6 +13,4 @@ Meu nome é Francisco Parra
 ![](https://media1.tenor.com/m/8osb_2l-pnsAAAAC/asta-demon.gif)
 
 
-
-
 ### Entrar em contato comigo pelo 📧-Mail parra.machado@escola.pr.gov.br ###
