@@ -14,4 +14,4 @@ Meu nome é Francisco Parra
 
 
 
-### Entrar em contato comigo pelo 📧-Mail parra.machado@escola.pr.gov.br ###
+### Entrar em contato comigo pelo 📧-Mail parra.machado@escola.pr.gov.br  ou pelo meu número (45)998186684 ###
