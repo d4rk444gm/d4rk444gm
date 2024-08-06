@@ -9,7 +9,8 @@ Meu nome é Francisco Parra
 - Atualmente estou trabalhando no Supermercado LAR
 - Pretendo começar a trabalhar na área de TI 💻
 
-![](https://media1.tenor.com/m/l-vMo2gqeNEAAAAd/asta-black-clover.gif)
+
+![](https://media1.tenor.com/m/8osb_2l-pnsAAAAC/asta-demon.gif)
 
 
 
