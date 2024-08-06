@@ -5,11 +5,11 @@ Meu nome é Francisco Parra
 - Estou aprenddendo a usar Linguagem Java script
 - Pratico Futebol ⚽
 - Pratico Vôlei 🏐
-- Gosto dde jogar ping-pong 🏓
+- Gosto de jogar ping-pong 🏓
 - Atualmente estou trabalhando no Supermercado LAR
 - Pretendo começar a trabalhar na área de TI 💻
 
-![](https://github.com/user-attachments/assets/e666ea92-dbc5-4707-bfbb-969ce80da165)
+![](https://media1.tenor.com/m/l-vMo2gqeNEAAAAd/asta-black-clover.gif)
 
 
 
